@@ -331,7 +331,7 @@ a:active {
   background-color: var(--color-primary);
   width: 100%;
 }
-ul .row {
+ul.row {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -448,7 +448,7 @@ ul .row {
 .card-work .card-title a {
   display: block;
   text-decoration: none;
-  padding: 45%;
+  padding-top: 45%;
 }
 .card-work .card-title a::after {
   position: absolute;
