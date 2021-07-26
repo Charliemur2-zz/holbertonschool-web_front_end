@@ -290,7 +290,7 @@ a:active {
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
-ul .row {
+ul.row {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -308,7 +308,7 @@ ul .row {
 .footer-copyright {
   margin: 0;
   font-size: var(--font-size-small);
-  background-color: var(--text-color);
+  color: var(--text-color);
 }
 .footer ul {
   text-align: right;
