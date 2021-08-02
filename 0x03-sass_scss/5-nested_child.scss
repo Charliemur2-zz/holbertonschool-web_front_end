@@ -1,6 +1,6 @@
 body {
   color: #3d3d3d;
-  &:first-child .red {
+  > .red {
     color: #ff0000;
   }
 }
