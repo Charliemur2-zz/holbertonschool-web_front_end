@@ -1,0 +1,11 @@
+.info {
+  font-size: 12px;
+}
+.succes {
+  color: #00ff00;
+  @extend .info;
+}
+.warning {
+  color: #ff0000;
+  @extend .info;
+}
