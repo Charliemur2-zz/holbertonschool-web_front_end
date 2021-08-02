@@ -1,0 +1,8 @@
+@mixin left-right-margins {
+  margin-left: 10px;
+  margin-right: 15px;
+}
+
+body {
+  @include left-right-margins;
+}
