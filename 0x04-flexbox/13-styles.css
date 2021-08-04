@@ -722,6 +722,10 @@ ul.row {
   border: none;
   margin-bottom: 3rem;
 }
+.post-meta-list [class*="post-meta-"]:last-child {
+  border: none;
+  margin-bottom: 3rem;
+}
 /* Tag list ============================= */
 .tag-list {
   padding: 0;
