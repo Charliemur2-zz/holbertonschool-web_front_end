@@ -718,7 +718,7 @@ ul.row {
   text-transform: uppercase;
   display: block;
 }
-.post-meta-list [class*="post-meta"] {
+.post-meta-list [class*="post-meta-"] {
   border: none;
   margin-bottom: 3rem;
 }
